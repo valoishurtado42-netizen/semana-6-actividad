@@ -1,0 +1,9 @@
+Al enviar una petición POST a la ruta /registro con los datos proporcionados, el servidor recibe la información en formato JSON y responde devolviendo los mismos datos junto con un mensaje de confirmación.
+
+Respuesta obtenida:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
